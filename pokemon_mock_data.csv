@@ -1,0 +1,101 @@
+Name,Type1,Type2,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Ability,Gender
+Pokemon1,Psychic,Electric,70,125,104,110,115,110,Swift Swim,Genderless
+Pokemon2,Fire,Electric,95,113,63,111,114,110,Blaze,Female
+Pokemon3,Ice,Normal,69,70,110,67,60,44,Keen Eye,Female
+Pokemon4,Fire,Dragon,143,47,102,83,111,99,Levitate,Genderless
+Pokemon5,Dark,Water,67,41,55,103,115,112,Torrent,Genderless
+Pokemon6,Fairy,Psychic,130,111,88,69,69,57,Keen Eye,Female
+Pokemon7,Dragon,Ice,121,48,70,76,58,85,Swift Swim,Female
+Pokemon8,Ice,Electric,142,130,60,124,41,97,Shield Dust,Male
+Pokemon9,Fairy,Ice,115,63,87,68,91,50,Levitate,Female
+Pokemon10,Dark,,32,48,33,46,112,69,Swift Swim,Female
+Pokemon11,Psychic,Dragon,85,58,105,64,93,83,Intimidate,Male
+Pokemon12,Dragon,Grass,121,122,79,47,115,105,Levitate,Male
+Pokemon13,Grass,Electric,133,89,115,89,92,89,Swift Swim,Male
+Pokemon14,Psychic,Psychic,61,65,125,64,120,65,Levitate,Female
+Pokemon15,Water,Psychic,98,105,101,48,61,71,Torrent,Genderless
+Pokemon16,Fairy,Fairy,111,115,40,60,117,34,Shield Dust,Female
+Pokemon17,Grass,Water,120,39,76,85,62,36,Torrent,Male
+Pokemon18,Ice,Ice,130,75,124,43,51,38,Torrent,Male
+Pokemon19,Water,Dark,139,60,77,76,54,113,Overgrow,Female
+Pokemon20,Ice,Dark,81,101,120,115,126,95,Shield Dust,Genderless
+Pokemon21,Water,Dragon,114,53,50,54,91,47,Keen Eye,Male
+Pokemon22,Dragon,Water,72,45,77,61,100,46,Keen Eye,Male
+Pokemon23,Fire,Grass,48,32,70,41,85,103,Levitate,Genderless
+Pokemon24,Water,,44,77,122,126,34,64,Sturdy,Male
+Pokemon25,Fire,Ice,60,44,112,57,73,127,Torrent,Male
+Pokemon26,Grass,Normal,86,122,83,50,127,43,Sturdy,Genderless
+Pokemon27,Dark,Dragon,118,32,75,107,43,51,Run Away,Genderless
+Pokemon28,Electric,Fairy,59,127,42,50,72,110,Torrent,Female
+Pokemon29,Fairy,Psychic,136,37,43,38,70,123,Intimidate,Genderless
+Pokemon30,Dragon,,148,64,38,74,52,46,Sturdy,Male
+Pokemon31,Dark,Dark,90,58,43,40,56,105,Sturdy,Female
+Pokemon32,Fire,Electric,113,113,43,124,106,34,Intimidate,Female
+Pokemon33,Dark,Psychic,81,106,30,55,53,97,Run Away,Male
+Pokemon34,Electric,Psychic,114,67,90,124,116,119,Keen Eye,Male
+Pokemon35,Dark,Dragon,122,84,58,59,91,111,Intimidate,Genderless
+Pokemon36,Ice,Psychic,136,56,117,111,130,118,Sturdy,Genderless
+Pokemon37,Water,Grass,133,52,39,103,85,123,Swift Swim,Male
+Pokemon38,Fairy,,104,80,40,102,108,128,Torrent,Male
+Pokemon39,Psychic,Grass,73,48,107,35,38,75,Intimidate,Genderless
+Pokemon40,Dragon,Fire,146,32,124,117,32,35,Levitate,Genderless
+Pokemon41,Psychic,Psychic,42,44,81,118,63,118,Run Away,Genderless
+Pokemon42,Dragon,Ice,68,79,47,118,118,113,Shield Dust,Genderless
+Pokemon43,Dark,Dark,146,30,36,115,44,121,Levitate,Genderless
+Pokemon44,Psychic,Water,32,128,31,130,94,101,Swift Swim,Male
+Pokemon45,Electric,Fairy,131,92,32,83,40,92,Overgrow,Genderless
+Pokemon46,Ice,Fairy,46,55,60,114,35,107,Levitate,Male
+Pokemon47,Fire,Grass,114,69,101,100,61,110,Shield Dust,Genderless
+Pokemon48,Dark,Fire,72,93,34,34,43,129,Levitate,Male
+Pokemon49,Normal,Dragon,103,92,58,127,38,93,Shield Dust,Female
+Pokemon50,Ice,Dragon,138,30,68,109,82,124,Run Away,Male
+Pokemon51,Dark,Dragon,40,125,121,98,38,86,Shield Dust,Female
+Pokemon52,Normal,Dark,58,30,42,89,100,76,Levitate,Male
+Pokemon53,Grass,Electric,68,120,30,94,94,127,Run Away,Male
+Pokemon54,Water,Ice,95,102,78,67,35,118,Swift Swim,Female
+Pokemon55,Electric,,147,112,44,76,129,56,Shield Dust,Female
+Pokemon56,Psychic,,79,123,107,30,35,88,Keen Eye,Genderless
+Pokemon57,Grass,Ice,83,73,46,113,112,61,Shield Dust,Male
+Pokemon58,Ice,,143,73,74,45,109,82,Sturdy,Male
+Pokemon59,Fairy,Ice,101,93,90,46,35,46,Overgrow,Female
+Pokemon60,Psychic,Normal,42,34,118,38,69,64,Keen Eye,Genderless
+Pokemon61,Dark,Electric,134,30,101,44,107,72,Levitate,Genderless
+Pokemon62,Ice,Electric,112,91,38,125,128,84,Levitate,Male
+Pokemon63,Fire,Normal,58,124,34,130,42,57,Intimidate,Genderless
+Pokemon64,Grass,Electric,123,41,66,42,60,121,Sturdy,Male
+Pokemon65,Normal,Dragon,122,116,84,55,87,96,Torrent,Male
+Pokemon66,Grass,Normal,129,66,40,116,61,124,Sturdy,Male
+Pokemon67,Water,Dark,128,127,50,57,87,65,Levitate,Female
+Pokemon68,Electric,Electric,115,95,63,95,83,61,Run Away,Male
+Pokemon69,Dragon,,62,49,46,73,122,55,Shield Dust,Male
+Pokemon70,Grass,,126,80,82,74,128,68,Overgrow,Female
+Pokemon71,Fire,Psychic,52,53,45,76,46,109,Keen Eye,Genderless
+Pokemon72,Dragon,Electric,94,45,115,40,110,43,Shield Dust,Male
+Pokemon73,Water,Water,58,119,35,46,74,62,Levitate,Female
+Pokemon74,Psychic,Dragon,89,46,44,111,42,114,Run Away,Female
+Pokemon75,Dragon,Dragon,86,121,45,76,74,41,Run Away,Female
+Pokemon76,Normal,Fairy,74,120,63,126,50,128,Overgrow,Female
+Pokemon77,Normal,Dark,141,94,105,99,70,111,Shield Dust,Female
+Pokemon78,Psychic,Fairy,94,118,41,113,116,73,Blaze,Female
+Pokemon79,Grass,,66,55,39,55,66,53,Overgrow,Genderless
+Pokemon80,Dark,Normal,49,123,34,45,47,90,Sturdy,Female
+Pokemon81,Dragon,Psychic,149,97,81,42,66,79,Torrent,Male
+Pokemon82,Electric,Ice,132,82,112,98,120,58,Blaze,Genderless
+Pokemon83,Normal,Dragon,111,49,50,43,34,36,Torrent,Male
+Pokemon84,Water,Normal,98,32,104,88,48,78,Overgrow,Female
+Pokemon85,Normal,Fire,136,52,63,111,70,44,Blaze,Male
+Pokemon86,Ice,,143,45,111,62,125,109,Overgrow,Genderless
+Pokemon87,Normal,Electric,102,130,45,82,112,85,Shield Dust,Female
+Pokemon88,Fairy,Electric,110,116,57,113,118,35,Sturdy,Genderless
+Pokemon89,Fairy,Dragon,62,43,70,51,111,76,Shield Dust,Female
+Pokemon90,Psychic,Dragon,89,113,51,106,101,48,Levitate,Female
+Pokemon91,Dark,Grass,89,116,30,71,124,87,Run Away,Female
+Pokemon92,Dark,Dragon,96,124,104,109,119,97,Shield Dust,Female
+Pokemon93,Fire,Psychic,74,79,113,30,39,30,Intimidate,Male
+Pokemon94,Ice,Fire,39,41,44,68,117,126,Levitate,Genderless
+Pokemon95,Psychic,Electric,55,105,106,38,99,102,Levitate,Female
+Pokemon96,Fire,Ice,54,45,86,87,93,73,Blaze,Genderless
+Pokemon97,Ice,Normal,80,109,58,119,112,70,Run Away,Female
+Pokemon98,Electric,,125,53,61,62,127,84,Overgrow,Genderless
+Pokemon99,Normal,Normal,104,53,85,127,80,75,Intimidate,Genderless
+Pokemon100,Psychic,Electric,83,70,126,41,41,59,Torrent,Genderless
